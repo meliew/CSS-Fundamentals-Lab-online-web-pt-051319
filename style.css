@@ -16,8 +16,7 @@ img {
 }
 
 nav a {
-
-  text-align: center;
+  align-items: center;
   background-color: lightgrey;
 
 }
