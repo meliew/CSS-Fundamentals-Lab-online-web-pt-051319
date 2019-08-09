@@ -36,8 +36,10 @@ nav a {
 #details div {
   display: block;
   float: left;
+  text-align: center;
+  width: 25%;
   background-color: lightblue;
-  margin: auto;
+
 }
 
 figcaption {
