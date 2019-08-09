@@ -32,5 +32,8 @@ nav a {
 
 #details {
 
+  display: block;
+  float: left;
+
   background-color: lightblue;
 }
