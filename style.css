@@ -39,3 +39,9 @@ nav a {
   background-color: lightblue;
   margin: auto;
 }
+
+figcaption {
+
+  font-size: 10px;
+  text-align: center;
+}
