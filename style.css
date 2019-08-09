@@ -19,10 +19,13 @@ nav a {
 
   padding-left: 10px;
   padding-right: 10px;
+  list-style: none;
+    margin: 0 auto;
+    text-align:center;
+
+}
+
+#featured-proerty p {
+  width: 800px;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-
-
-
 }
